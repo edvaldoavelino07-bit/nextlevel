@@ -1,0 +1,27 @@
+.elementor-kit-9{--e-global-color-primary:#50166F;--e-global-color-secondary:#DB1F77;--e-global-color-text:#FFFFFF;--e-global-color-accent:#DB1F77;--e-global-color-4d00bc3:#EFEFEF;--e-global-color-dfa298b:#1EAB4E;--e-global-color-2a8b454:#0B0B0B;--e-global-color-62d12d7:#131313;--e-global-color-b0e1643:#030B13;--e-global-color-2fc8260:#EB1E43;--e-global-color-14f323e:#EB1E1E;--e-global-typography-primary-font-family:"Montserrat";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Montserrat";--e-global-typography-secondary-font-weight:400;--e-global-typography-accent-font-family:"Montserrat";--e-global-typography-accent-font-weight:500;background-color:#000000;font-family:"Montserrat", Sans-serif;}.elementor-kit-9 e-page-transition{background-color:#FFBC7D;}.elementor-kit-9 a{font-family:"Montserrat", Sans-serif;}.elementor-kit-9 h1{font-family:"Montserrat", Sans-serif;}.elementor-kit-9 h2{font-family:"Montserrat", Sans-serif;}.elementor-kit-9 h3{font-family:"Montserrat", Sans-serif;}.elementor-kit-9 h4{font-family:"Montserrat", Sans-serif;}.elementor-kit-9 button,.elementor-kit-9 input[type="button"],.elementor-kit-9 input[type="submit"],.elementor-kit-9 .elementor-button{font-family:"Montserrat", Sans-serif;}.elementor-kit-9 label{font-family:"Montserrat", Sans-serif;}.elementor-kit-9 input:not([type="button"]):not([type="submit"]),.elementor-kit-9 textarea,.elementor-kit-9 .elementor-field-textual{font-family:"Montserrat", Sans-serif;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){--kit-widget-spacing:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */html,
+body{
+width:100%;
+overflow-x:hidden;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../fonts/Montserrat-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../fonts/Montserrat-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
